@@ -1,9 +1,0 @@
-IP,Pulse,False Positive,Validation,Location,ASN,Related Tags
-8.8.8.8,0,"assessment: accepted
-assessment_date: 2021-05-19T15:36:44.966000
-","source: false_positive
-message: Known False Positive
-source: whitelist
-message: contained in whitelisted prefix
-",United States of America,AS15169 google llc,"0 Related Tags: 
-"
