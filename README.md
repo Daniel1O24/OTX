@@ -15,7 +15,7 @@ Example
 
   1.Put the suspecious IPv4 addresses in the IPv4 column of IPv4.csv file:
   
-  2.run the python script bellow, you will get the theat intellience of these IP addresses from OTX and save to a csv file.
+  2.run the python script bellow, you will get the theat intellience of these IP addresses from OTX and save the results to a csv file.
   
   python3 OTX.py
 
