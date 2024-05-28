@@ -16,5 +16,3 @@ Example
   2.run the python script bellow, you will get the theat intellience of these IP addresses from OTX and save to a csv file.
   python3 OTX.py
 
-Thanks to 
-
