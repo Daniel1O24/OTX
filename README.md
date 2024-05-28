@@ -15,7 +15,7 @@ Example
 
   1.Put the suspecious IPv4 addresses in the IPv4 column of IPv4.csv file, for example, the Top 400 IP addresses in Snort block IP list.
   
-  2.run the python script bellow, you will get the theat intellience of these IP addresses from OTX and save the results to a csv file automatically.
+  2.run the python script bellow, you will get the threat intellience of these IP addresses from OTX and save the results to a csv file automatically.
   
   python3 OTX.py
 
