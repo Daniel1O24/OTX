@@ -1,6 +1,6 @@
 About
 
-Get open Threat Intelligence from OTX Community
+Get open Threat Intelligence of IPv4 addresses list from OTX Community and save the results to a csv file automatically.
 
 Installation
 1. download and install Python 3.10 (other python3 version may also work, But I only tested on Python 3.10)
@@ -15,7 +15,7 @@ Example
 
   1.Put the suspecious IPv4 addresses in the IPv4 column of IPv4.csv file:
   
-  2.run the python script bellow, you will get the theat intellience of these IP addresses from OTX and save the results to a csv file.
+  2.run the python script bellow, you will get the theat intellience of these IP addresses from OTX and save the results to a csv file automatically.
   
   python3 OTX.py
 
