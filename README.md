@@ -20,6 +20,6 @@ Example
   python3 OTX.py
 
 
-Thanks to the Atos team who shared the OTX during Olympic Games, which inspired me to develop this python tool.
+Thanks to the Atos security team who shared the OTX during Olympic Games, which inspired me to design and develop this python tool again during my travels abroad.
 
 
