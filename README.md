@@ -22,15 +22,18 @@ Example
 
 Thanks to the Atos security team who shared the OTX during Olympic Games, which inspired me to design and develop this python tool again during my travels abroad.
 
-I made this automation tool in my spare time. If the tool helps you save some time or you just want to support free software, Bitcoin can be used to make donations.
+PS: I made this automation tool in my spare time. If the tool helps you save some time or you just want to support more people to develop more free software, Bitcoin can be used to make donations.
 
 Segwit
 Bitcoin address
 bc1q7nwyjcwhsexx3g5pne6lwumnn3kkkylux426xc
+![IMG_E0011](https://github.com/user-attachments/assets/ae29a729-7104-42ea-a307-dbb1e50a904d)
 
 Legacy
 Bitcoin address
 14qt6U1hyBEwcYgcZvqbUrETAqqhRnM1xB
+![IMG_E0012](https://github.com/user-attachments/assets/7d7487f0-058a-43ea-b08d-31c64d5d72ad)
+
 
 
 
