@@ -25,5 +25,13 @@ Thanks to the Atos security team who shared the OTX during Olympic Games, which 
 I made this automation tool in my spare time. If the tool helps you save some time or you just want to support free software, Bitcoin can be used to make donations.
 
 Segwit
-Bitcoin Address:
+Bitcoin address
 bc1q7nwyjcwhsexx3g5pne6lwumnn3kkkylux426xc
+
+Legacy
+Bitcoin address
+14qt6U1hyBEwcYgcZvqbUrETAqqhRnM1xB
+
+
+
+
