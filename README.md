@@ -27,12 +27,14 @@ PS: I made this automation tool in my spare time. If the tool helps you save som
 Segwit
 Bitcoin address
 bc1q7nwyjcwhsexx3g5pne6lwumnn3kkkylux426xc
-![IMG_E0011](https://github.com/user-attachments/assets/ae29a729-7104-42ea-a307-dbb1e50a904d)
+![IMG_E0011](https://github.com/user-attachments/assets/b4a5faba-c531-4696-a968-031c8b4d07bf)
+
 
 Legacy
 Bitcoin address
 14qt6U1hyBEwcYgcZvqbUrETAqqhRnM1xB
-![IMG_E0012](https://github.com/user-attachments/assets/7d7487f0-058a-43ea-b08d-31c64d5d72ad)
+![IMG_E0012](https://github.com/user-attachments/assets/1e6b4e8e-e240-44b4-aca2-81bc0ffaf0d9)
+
 
 
 
