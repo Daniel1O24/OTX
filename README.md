@@ -3,8 +3,8 @@
 During the defensive security of important events, such as Olympic Games, defenders may need to block hundreds of malicious IP in a day. Cyber threat intelligence is one of best practises of cyber security. This python tool can get hundreds rows of open Threat Intelligence of IPv4 addresses list from the OTX Community and save the results to a csv file automatically. 
 
 Features
-1. support Pulse count, False Positive, validation, Location, ASN, Indicator Facts and Related Tags of IP address thread intelligence from OTX
-2. resilience design: if the tool gets one part of threat intelligence of IP address from OTX fail, it will still get other parts; if it gets the whole thread inelligence of one IP address fail, it will still get other IP addresses' thread intelligence.
+1. support Pulse count, False Positive, validation, Location, ASN, Indicator Facts and Related Tags of IP address threat intelligence from OTX
+2. resilience design: if the tool gets one part of threat intelligence of IP address from OTX fail, it will still get other parts; if it gets the whole threat intelligence of one IP address fail, it will still get other IP addresses' threat intelligence.
 3. the results are saved to safe CSV file, not Excel file. 
 
 Installation
