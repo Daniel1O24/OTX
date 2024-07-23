@@ -17,7 +17,9 @@ https://www.python.org/downloads/
 Example
 
 1.Put the suspecious IPv4 addresses in the IPv4 column of IPv4.csv file, for example, the Top 100 IP addresses in Snort block IP list.
+
 2.run the python script bellow,  get the threat intelligence of these IP addresses from OTX and save the results to a csv file automatically.
+
   python3 OTX.py
 
 Thanks to the Atos security team who shared the OTX during Olympic Games, which inspired me to design and develop this python tool again during my travels abroad.
