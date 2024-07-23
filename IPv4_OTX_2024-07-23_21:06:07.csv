@@ -1,0 +1,359 @@
+IP,Pulse,False Positive,Validation,Location,ASN,Indicator Facts,Related Tags
+185.234.216.59,3,,,Exception:'country_name',ASNone ,"has webserver
+has ssh
+","1 Related Tags: 
+snort"
+212.83.185.105,32,,,France,AS12876 online s.a.s.,"otx telemetry all
+has webserver
+","6 Related Tags: 
+snort,malicious,ioc,Nextray,cyber security,phishing"
+194.143.136.122,25,,,"Odessa,Ukraine",AS34661 tov trk briz,"otx telemetry all
+","19 Related Tags: 
+tcp,snort,scan,telnet,tpot19,Scanner,honeypot,tsec,Skype,smtp,scanning,Malicious IP,Brutforce,botnet,blacklist,ssh,la-safe.org,Webattack,mirai"
+113.160.133.8,3,,,"Thon Van Giang Trung,Viet Nam",AS45899 vnpt corp,"otx telemetry all
+has webserver
+","1 Related Tags: 
+snort"
+194.44.38.51,19,,,"Poltava,Ukraine",AS15461 science production enterprise,,"9 Related Tags: 
+tcp,Malicious IP,honeypot,snort,blacklist,scan,telnet,mirai,botnet"
+131.253.18.12,32,,"source: whitelist
+message: contained in whitelisted prefix
+",United States of America,ASNone ,"otx telemetry all
+is sinkhole
+","291 Related Tags: 
+html info,jfif,as3462,netrange,scan endpoints,android,virut,ioc,a domains,summary,crypto,unknown,local,blister,files,unsafe,venom rat,referrer,delete,avast avg,services,redline stealer,as3257,urls,as21342,starfield,sample,formbook,betabot,copy,create c,media sharing,china unknown,trojan,default,as131148 bank,fri oct,safe site,country,checkin,server,cache entry,known infection source,dcrat,title,section,sucur2,price list,hostname,detections file,team malware,malware repository,lowfi,guard,url https,whois lookup,http response,networm,cl0p,otx scoreblue,b file,domains,botnet command,sha256,daga,strings,team memscan,service,tags viewport,name,emotet,detplock,number,win32upatre jun,verdict,gmt content,vawtrak,aaaa,back,korplug,com cnt,key info,installer,alexa top,all scoreblue,malicious url,related pulses,status,taiwan unknown,final url,hybrid,sucuri,win64,click,adobea,files show,control server,zbot,service bs,jpeg image,maltiverse,span,body,crime,ip detections,spyware,epik llc,first,td tr,corp,ascii text,nethandle,temple,open,bank,graph,as174,expired,socgholish,file size,icann whois,exif standard,nxdomain,collection,gzip chrome,win32 exe,cus starizona,pulse pulses,namecheap inc,headers,fakedout threat,write,hacktool,v3 serial,december,core,registrar iana,round,historical ssl,registrar abuse,server response,object,tld count,results jun,phy pre,registrar,whois status,class,span td,stealer,execution,show,a div,all search,body length,read c,cname,trackers google,code,malicious,record value,form,downloader,dock,gsddf3d2bzf,acceptencoding,million,encrypt,ip address,tiff image,verisign,high,whois database,ipv4,x sucuri,as22612,csc corporate,g2 validity,a li,tag manager,cl0p ransomware,as30148 sucuri,no data,hiddentear,xcnfe,sha1,gootloader,tag count,heur,search,sucuri website,xport,network,passive dns,samples,next,net1920000,vt graph,blacklist,asnone germany,pattern match,url hostname,rgba,date checked,internet domain,analyzer paste,trojanspy,detections type,malware,sucuri security,simda,gov int,google safe,team,malware site,artemis,as44273 host,apple ios,nav onl,data,subject public,agent,name servers,engineering,creation date,date hash,as15169 google,west domains,urls http,site,kb body,png image,date,showing,formbook cnc,html,ip summary,phishing,life,title home,detection list,authority,pdf my,xtra,expiration date,phishtank,tofsee,maltiverse safe,body doctype,domain,win32,found,united,analyzer threat,bobby fischer,tucows,tsara brashears,cisco umbrella,mining,agent tesla,as43350 nforce,net192,bot networks,pdf dealer,entries,status code,hostnames,redline,firewall,Nextray,unlocker,limerat,meta,remcos,algorithm,office open,url analysis,tucows domains,alexa,dem fin,general,cngo daddy,agenttesla,asnone united,url summary,certificate,pulse submit,iocs,cyber security,miner,error"
+131.253.18.11,29,,"source: whitelist
+message: contained in whitelisted prefix
+",United States of America,ASNone ,"otx telemetry all
+is sinkhole
+","5 Related Tags: 
+malicious,ioc,Nextray,cyber security,phishing"
+176.8.55.92,39,,,"Uzhhorod,Ukraine",AS15895 kyivstar pjsc,,"8 Related Tags: 
+honeypot,snort,tsec,ssh,la-safe.org,tpot19,rdp,kfsensor"
+46.149.184.5,13,,,"Kalush,Ukraine",AS197522 kaluska informatsiyna merezha llc,"otx telemetry all
+","1 Related Tags: 
+snort"
+46.211.241.39,3,,,Ukraine,AS15895 kyivstar pjsc,"otx telemetry all
+","1 Related Tags: 
+snort"
+109.196.187.208,3,,,"Oleksandriya,Ukraine",AS50362 teleradiocompany cable television merezhi plus ltd,,"1 Related Tags: 
+snort"
+178.159.36.185,3,,,Russian Federation,AS213058 private internet hosting ltd,"otx telemetry all
+","1 Related Tags: 
+snort"
+59.99.43.205,3,,,"Palakkad,India",AS9829 national internet backbone,,"1 Related Tags: 
+snort"
+163.172.154.105,3,,,France,AS12876 online s.a.s.,"otx telemetry all
+","1 Related Tags: 
+snort"
+163.172.209.46,3,,,"Amsterdam,Netherlands",AS12876 online s.a.s.,"otx telemetry all
+has twitter discussion
+","1 Related Tags: 
+snort"
+146.185.139.55,0,,"source: whitelist
+message: contained in whitelisted prefix
+","Amsterdam,Netherlands",AS14061 digitalocean  llc,"otx telemetry all
+","0 Related Tags: 
+"
+213.74.133.14,3,,,"Istanbul,Türkiye",AS34984 tellcom iletisim hizmetleri a.s.,"otx telemetry all
+","1 Related Tags: 
+snort"
+59.93.29.14,3,,,"Kottayam,India",AS9829 national internet backbone,"otx telemetry all
+","1 Related Tags: 
+snort"
+41.138.60.225,3,,,"Niamey,Niger",AS37385 african network information center,"has webserver
+has ssh
+has telnet
+","1 Related Tags: 
+snort"
+163.172.152.231,8,,,France,AS12876 online s.a.s.,"otx telemetry all
+has twitter discussion
+has webserver
+has ssh
+","3 Related Tags: 
+VPN,TOR,snort"
+197.211.53.25,36,,,"Suleja,Nigeria",AS37148 african network information center,"otx telemetry all
+","10 Related Tags: 
+honeypot,snort,malicious,ioc,digital ocean,telnet,Nextray,bruteforce,cyber security,phishing"
+188.161.150.22,50,,,"Gaza,Palestine, State of",AS12975 palestine telecommunications company (paltel),"otx telemetry all
+","19 Related Tags: 
+tcp,snort,scan,ioc,tpot19,phishing,port-scan,honeypot,malicious,tsec,Malicious IP,Nextray,botnet,blacklist,la-safe.org,smb,nmap,mirai,cyber security"
+41.33.197.132,50,,,Egypt,AS8452 te data,"otx telemetry all
+has twitter discussion
+","31 Related Tags: 
+tcp,snort,scan,dhcp,vnc,telnet,imap,tpot19,ldap,oracle,honeypot,tsec,portscan,memcache,qhoneypot,Malicious IP,snmp,socks5,botnet,redis,blacklist,ssh,la-safe.org,smb,elasticsearch,malware,mirai,ftp,postgres,mssql,ntp"
+117.239.224.138,3,,,"Gurgaon,India",AS9829 national internet backbone,"otx telemetry all
+","1 Related Tags: 
+snort"
+14.176.1.82,3,,,"Hanoi,Viet Nam",AS45899 vnpt corp,,"1 Related Tags: 
+snort"
+197.254.106.218,3,,,Kenya,AS15808 accesskenya group ltd,,"1 Related Tags: 
+snort"
+162.210.173.109,3,,,United States of America,AS46841 fork networking  llc,"otx telemetry all
+has webserver
+","1 Related Tags: 
+snort"
+212.47.248.81,0,,"source: whitelist
+message: contained in whitelisted prefix
+",France,AS12876 online s.a.s.,"otx telemetry all
+has webserver
+","0 Related Tags: 
+"
+119.93.79.68,3,,,"San Fernando City,Philippines",AS9299 philippine long distance telephone company,,"1 Related Tags: 
+snort"
+98.124.243.32,3,,,United States of America,ASNone ,"otx telemetry all
+","1 Related Tags: 
+snort"
+59.93.84.191,3,,,"Bijapur,India",AS9829 national internet backbone,,"1 Related Tags: 
+snort"
+119.17.192.102,7,,,"Hanoi,Viet Nam",AS24173 netnam company,"otx telemetry all
+","29 Related Tags: 
+tcp,snort,scan,korea republic,united kingdom,india,china,germany,honeypot,hong kong,united,canada,poland,pakistan,Malicious IP,ukraine,sweden,france,federation,vietnam,singapore,botnet,blacklist,cambodia,smb,indonesia,mirai,taiwan,netherlands"
+178.62.18.173,3,,,"London,United Kingdom of Great Britain and Northern Ireland",AS14061 digitalocean  llc,"otx telemetry all
+has webserver
+has ssh
+","1 Related Tags: 
+snort"
+116.68.98.252,3,,,"Ernakulam,India",AS17465 cable isp in india,"otx telemetry all
+","1 Related Tags: 
+snort"
+107.182.131.117,3,,,"Dallas,United States of America",AS213035 des capital b.v.,"otx telemetry all
+has webserver
+","1 Related Tags: 
+snort"
+46.101.138.211,0,,"source: whitelist
+message: contained in whitelisted prefix
+","Frankfurt am Main,Germany",AS14061 digitalocean  llc,"otx telemetry all
+has webserver
+has ssh
+","0 Related Tags: 
+"
+185.100.87.63,3,,,"Bucharest,Romania",AS200651 flokinet ltd,"otx telemetry all
+has webserver
+","1 Related Tags: 
+snort"
+31.31.72.43,3,,,Czechia,AS197019 wedos internet  a.s.,"otx telemetry all
+has webserver
+has ssh
+has rdp
+","1 Related Tags: 
+snort"
+64.137.178.3,3,,,United States of America,AS30029 dobson technologies - transport and telecom solutions  llc,"otx telemetry all
+","1 Related Tags: 
+snort"
+193.138.219.231,3,,,"Oxie,Sweden",AS39351 31173 services ab,"otx telemetry all
+","1 Related Tags: 
+snort"
+186.205.89.48,3,,,"Rio de Janeiro,Brazil",AS28573 claro s.a.,"otx telemetry all
+","1 Related Tags: 
+snort"
+185.107.70.202,50,,"source: tor_exits
+message: IP Associated with Tor Exit Nodes
+",Netherlands,AS43350 nforce entertainment b.v.,"otx telemetry all
+","15 Related Tags: 
+snort,malicious,ioc,webscan,scanning,Nextray,probing,TOR,VPN,webscanner,bruteforce,webscanner, bruteforce, web app attack,badrequest,cyber security,phishing"
+27.50.94.251,3,,,"Wyongah,Australia",AS45671 wholesale services provider,"otx telemetry all
+","1 Related Tags: 
+snort"
+185.242.113.224,12,,"source: tor_exits
+message: IP Associated with Tor Exit Nodes
+",Germany,AS48314 michael sebastian schinzel trading as ip-projects gmbh & co. kg,"otx telemetry all
+has webserver
+has rdp
+","7 Related Tags: 
+snort,webscan,TOR,scanning,VPN,webscanner, bruteforce, web app attack,probing"
+185.62.189.56,3,,,Netherlands,AS47674 net solutions - consultoria em tecnologias de informacao  sociedade unipessoal lda,"otx telemetry all
+","1 Related Tags: 
+snort"
+93.219.113.201,3,,,"Kuchen,Germany",AS3320 deutsche telekom ag,,"1 Related Tags: 
+snort"
+87.120.254.200,3,,,Bulgaria,AS34224 neterra ltd.,"otx telemetry all
+","1 Related Tags: 
+snort"
+108.61.187.24,3,,,"Heiwajima,Japan",AS20473 the constant company  llc,"has webserver
+has ssh
+","1 Related Tags: 
+snort"
+212.47.247.226,3,,,France,AS12876 online s.a.s.,"otx telemetry all
+has webserver
+has ssh
+","1 Related Tags: 
+snort"
+92.222.92.152,3,,,"Paris,France",AS16276 ovh sas,"otx telemetry all
+","1 Related Tags: 
+snort"
+104.236.58.27,3,,,"Clifton,United States of America",AS14061 digitalocean  llc,"otx telemetry all
+","1 Related Tags: 
+snort"
+37.187.247.3,3,,,France,AS16276 ovh sas,"otx telemetry all
+","1 Related Tags: 
+snort"
+101.0.54.130,16,,,"Jalandhar,India",AS133661 netplus broadband services private limited,"otx telemetry all
+","8 Related Tags: 
+snort,webscan,scanning,webscanner,bruteforce,webscanner, bruteforce, web app attack,badrequest,probing"
+178.32.53.124,8,,,United Kingdom of Great Britain and Northern Ireland,AS16276 ovh sas,"otx telemetry all
+","3 Related Tags: 
+VPN,TOR,snort"
+181.143.153.250,3,,,"Bogotá,Colombia",AS8065 epm telecomunicaciones s.a. e.s.p.,,"1 Related Tags: 
+snort"
+185.61.138.104,3,,,Ukraine,AS47674 net solutions - consultoria em tecnologias de informacao  sociedade unipessoal lda,"otx telemetry all
+","1 Related Tags: 
+snort"
+139.59.9.200,3,,,"Bengaluru,India",AS14061 digitalocean  llc,"otx telemetry all
+has webserver
+has ssh
+","1 Related Tags: 
+snort"
+181.143.253.106,50,,,"Manizales,Colombia",AS8065 epm telecomunicaciones s.a. e.s.p.,,"13 Related Tags: 
+honeypot,snort,malicious,ioc,telnet,digital ocean,Nextray,tcp/23,port 23,bruteforce,cyber security,phishing,botnet"
+85.207.155.39,3,,,"Karlovy Vary,Czechia",AS25248 radiokomunikace,,"1 Related Tags: 
+snort"
+185.128.40.220,3,,,Panama,ASNone ,"otx telemetry all
+has webserver
+has rdp
+","1 Related Tags: 
+snort"
+163.172.143.114,3,,,France,AS12876 online s.a.s.,"otx telemetry all
+","1 Related Tags: 
+snort"
+5.196.58.96,8,,"source: tor_exits
+message: IP Associated with Tor Exit Nodes
+",France,AS16276 ovh sas,"otx telemetry all
+has webserver
+","3 Related Tags: 
+VPN,TOR,snort"
+94.26.2.74,status_code:504,status_code:504,status_code:504,status_code:504,status_code:504,status_code:504,status_code:504
+103.214.54.82,3,,,"Jakarta,Indonesia",AS38517 pt.bangsawan cyberindo,"has webserver
+","1 Related Tags: 
+snort"
+45.55.178.34,3,,,"Clifton,United States of America",AS14061 digitalocean  llc,"otx telemetry all
+","1 Related Tags: 
+snort"
+167.114.238.104,3,,,"Roubaix,France",AS16276 ovh sas,"otx telemetry all
+","1 Related Tags: 
+snort"
+46.101.197.155,32,,,"Frankfurt am Main,Germany",AS14061 digitalocean  llc,"otx telemetry all
+","6 Related Tags: 
+snort,malicious,ioc,Nextray,cyber security,phishing"
+108.28.164.248,3,,,"Centreville,United States of America",AS701 verizon,"otx telemetry all
+","1 Related Tags: 
+snort"
+117.215.207.136,3,,,"Pathanamthitta,India",AS9829 national internet backbone,,"1 Related Tags: 
+snort"
+41.33.58.100,14,,,Egypt,AS8452 te data,"otx telemetry all
+has webserver
+has ssh
+","10 Related Tags: 
+honeypot,Malicious IP,tcp,blacklist,scan,snort,portscan,smb,mirai,botnet"
+67.205.149.140,3,,,"North Bergen,United States of America",AS14061 digitalocean  llc,"has webserver
+has ssh
+","1 Related Tags: 
+snort"
+113.176.70.96,13,,,"Vinh Long,Viet Nam",AS45899 vnpt corp,"otx telemetry all
+has webserver
+","9 Related Tags: 
+tcp,Malicious IP,honeypot,snort,blacklist,scan,smb,mirai,botnet"
+5.255.80.27,3,,,Netherlands,AS50673 serverius holding b.v.,"otx telemetry all
+","1 Related Tags: 
+snort"
+89.33.246.114,8,,"source: tor_exits
+message: IP Associated with Tor Exit Nodes
+",Romania,AS9009 m247 ltd,"otx telemetry all
+","3 Related Tags: 
+VPN,TOR,snort"
+89.35.178.104,3,,,"Springfield,United States of America",AS16125 uab cherry servers,"otx telemetry all
+has webserver
+has rdp
+","1 Related Tags: 
+snort"
+192.64.119.234,4,,,United States of America,AS22612 namecheap  inc.,"otx telemetry all
+has webserver
+","3 Related Tags: 
+snort,phishing,https://www.virustotal.com/graph/g1c3f7a2e68ea4fb8a314bdf3925b31"
+201.76.186.230,3,,,"Rio de Janeiro,Brazil",AS17222 mundivox do brasil ltda,"otx telemetry all
+","1 Related Tags: 
+snort"
+138.97.240.250,7,,,"São Paulo,Brazil",AS264217 sem fone telecomunicaes ltda,"otx telemetry all
+","5 Related Tags: 
+honeypot,snort,tsec,la-safe.org,tpot19"
+151.100.179.50,3,,,"Rome,Italy",AS137 consortium garr,"otx telemetry all
+","1 Related Tags: 
+snort"
+190.14.228.17,3,,,"Riohacha,Colombia",AS27951 media commerce partners s.a,"otx telemetry all
+","1 Related Tags: 
+snort"
+46.28.111.122,3,,,Czechia,AS197019 wedos internet  a.s.,"otx telemetry all
+has webserver
+has ssh
+","1 Related Tags: 
+snort"
+217.12.201.109,3,,,"Meppel,Netherlands",AS21100 itl llc,"otx telemetry all
+","1 Related Tags: 
+snort"
+149.202.62.12,3,,,France,AS16276 ovh sas,"otx telemetry all
+","1 Related Tags: 
+snort"
+212.156.149.146,50,,,"Nevşehir,Türkiye",AS9121 turk telekomunikasyon anonim sirketi,"otx telemetry all
+has webserver
+","27 Related Tags: 
+tcp,snort,scan,dhcp,vnc,telnet,imap,ldap,oracle,honeypot,portscan,memcache,qhoneypot,Malicious IP,snmp,socks5,botnet,redis,blacklist,ssh,smb,elasticsearch,ftp,mirai,postgres,mssql,ntp"
+149.56.99.38,0,,"source: whitelist
+message: contained in whitelisted prefix
+","Montreal,Canada",AS16276 ovh sas,"otx telemetry all
+","0 Related Tags: 
+"
+149.56.99.37,0,,"source: whitelist
+message: contained in whitelisted prefix
+","Montreal,Canada",AS16276 ovh sas,"otx telemetry all
+has webserver
+has ssh
+","0 Related Tags: 
+"
+101.98.11.146,3,,,"Auckland,New Zealand",AS9790 vocusgroup nz,"otx telemetry all
+","1 Related Tags: 
+snort"
+187.44.138.226,3,,,"Ibirataia,Brazil",AS28186 its telecomunicacoes ltda,"otx telemetry all
+","1 Related Tags: 
+snort"
+109.188.126.11,3,,,"Moscow,Russian Federation",AS47395 pjsc megafon,"otx telemetry all
+","1 Related Tags: 
+snort"
+27.106.62.214,32,,,"Navi Mumbai,India",AS45194 syscon infoway pvt. ltd.,,"6 Related Tags: 
+snort,malicious,ioc,Nextray,cyber security,phishing"
+91.140.233.130,4,,,"Kuwait City,Kuwait",AS3225 gulfnet kuwait,"otx telemetry all
+","9 Related Tags: 
+tcp,Malicious IP,honeypot,snort,blacklist,scan,smb,mirai,botnet"
+163.172.211.135,3,,,"Amsterdam,Netherlands",AS12876 online s.a.s.,"otx telemetry all
+","1 Related Tags: 
+snort"
+41.200.247.222,50,,,"Cherchell,Algeria",AS36947 african network information center,"otx telemetry all
+has twitter discussion
+","10 Related Tags: 
+tcp,Malicious IP,honeypot,blacklist,scan,snort,smb,malware,mirai,botnet"
+181.189.148.98,32,,,Guatemala,AS23243 comcel guatemala s.a.,"otx telemetry all
+has webserver
+","26 Related Tags: 
+tcp,snort,scan,dhcp,vnc,telnet,imap,ldap,oracle,honeypot,memcache,qhoneypot,Malicious IP,snmp,socks5,botnet,redis,blacklist,ssh,smb,elasticsearch,mirai,ftp,postgres,mssql,ntp"
+58.137.148.186,status_code:504,status_code:504,status_code:504,status_code:504,status_code:504,status_code:504,status_code:504
+84.251.91.165,3,,,"Helsinki,Finland",AS1759 telia finland oyj,"otx telemetry all
+","1 Related Tags: 
+snort"
+200.5.112.180,3,,,"San Juan,Argentina",AS10834 telefonica de argentina,"otx telemetry all
+has webserver
+","1 Related Tags: 
+snort"
+31.16.91.237,3,,,"Pinneberg,Germany",AS3209 vodafone gmbh,"otx telemetry all
+has webserver
+","1 Related Tags: 
+snort"
+94.183.112.60,3,,,"Iran, Islamic Republic of",AS31549 aria shatel company ltd,,"1 Related Tags: 
+snort"
+85.90.244.52,0,,"source: whitelist
+message: contained in whitelisted prefix
+","Frankfurt am Main,Germany",AS63949 linode  llc,"otx telemetry all
+has webserver
+","0 Related Tags: 
+"
+89.36.208.231,3,,,"Arezzo,Italy",AS31034 aruba s.p.a.,"otx telemetry all
+","1 Related Tags: 
+snort"
