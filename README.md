@@ -5,7 +5,7 @@ During the defensive security of important events, such as Olympic Games, defend
 Features
 1. support Pulse count, False Positive, validation, Location, ASN, Indicator Facts and Related Tags of IP address thread intelligence from OTX
 2. resilience design: if the tool gets one part of threat intelligence of IP address from OTX fail, it will still get other parts; if it gets the whole thread inelligence of one IP address fail, it will still get other IP addresses' thread intelligence.
-3. the results is saved to safe CSV file, not Excel. 
+3. the results are saved to safe CSV file, not Excel file. 
 
 Installation
 1. download and install Python 3.10 (other python3 version may also work, But I only tested on Python 3.10)
